@@ -1,0 +1,10 @@
+*{
+        font-family: "Titillium Web", sans-serif;
+        margin: 0;
+        padding: 0;
+        box-sizing: border-box;
+}
+header {
+    background-image: url(./img/bg-mobile.png\ \(2\).png);
+    background-size: cover;
+}
